@@ -2,7 +2,7 @@ name: Daily Crypto Price Fetch
 
 on:
   schedule:
-    - cron: '0 12 * * *'  # 12:00 UTC
+    - cron: '0 12 * * *'
   workflow_dispatch:
 
 jobs:
@@ -25,12 +25,12 @@ jobs:
 
       - name: Commit and push changes
         env:
-          TOKEN: ${{ secrets.GH_PAT }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
         run: |
-          echo "Token received: ${#TOKEN}"
-          git config user.name "zeke-bot"
-          git config user.email "zeke-bot@example.com"
+          echo "Token received (length): ${#GH_TOKEN}"
+          git config --global user.name "zeke-bot"
+          git config --global user.email "zeke-bot@example.com"
+          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/zeketests/crypto-daily-prices.git
           git add .
           git commit -m "Daily update - $(date '+%Y-%m-%d')" || exit 0
-          git push https://x-access-token:${TOKEN}@github.com/zeketests/crypto-daily-prices.git HEAD:main
-
+          git push origin HEAD:main
