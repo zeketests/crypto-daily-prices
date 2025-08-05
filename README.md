@@ -1,14 +1,25 @@
 # 🪙 Crypto Daily Prices
 
-This repo automatically fetches the top 100 cryptocurrencies from CoinGecko every day and saves their prices in `.csv` format.
+Automatically fetches the top 100 crypto prices daily from CoinGecko, stores them in `.csv`, and tracks changes over time.
 
-It also generates a daily diff file showing:
+## 📅 Latest Update
+<!-- AUTO-UPDATE-START -->
+(loading...)
+<!-- AUTO-UPDATE-END -->
 
-- 🔼 Price increases > 5%
-- 🔽 Price drops > 5%
-- 🆕 New entries in the Top 100
-- ❌ Removed coins
+## 📁 Folder structure
 
-All data is stored in the `data/YYYY/MM/` folder.
+Files are saved under `data/YYYY/MM/` and include:
+- `prices_YYYY-MM-DD.csv`
+- `diff_YYYY-MM-DD.txt` (if previous day's data exists)
 
-Automation is handled via GitHub Actions. No manual work needed.
+## ⚙️ How it works
+
+- Daily GitHub Actions job runs at 12:00 UTC
+- `.csv` with top 100 cryptos saved in `/data/`
+- Differences from previous day are tracked
+- README is auto-updated with latest summary
+
+---
+
+Powered by automation. No hands needed!
