@@ -1,0 +1,32 @@
+name: Daily Crypto Price Fetch
+
+on:
+  schedule:
+    - cron: '0 12 * * *'  # 12:00 UTC
+  workflow_dispatch:       # manual run
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run script
+        run: python top100_crypto_prices.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add .
+          git commit -m "Daily update - $(date '+%Y-%m-%d')" || echo "No changes to commit"
+          git push
