@@ -27,6 +27,7 @@ jobs:
         env:
           TOKEN: ${{ secrets.GH_PAT }}
         run: |
+          echo "Token received: ${#TOKEN}"
           git config user.name "zeke-bot"
           git config user.email "zeke-bot@example.com"
           git add .
