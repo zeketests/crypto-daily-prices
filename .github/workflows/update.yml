@@ -14,8 +14,8 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_PAT }}
         run: |
           echo "Token length: ${#GH_TOKEN}"
-          git config --global user.name "zeke-bot"
-          git config --global user.email "zeke-bot@example.com"
+          git config --global user.name "zeketests"
+          git config --global user.email "67669609+zeketests@users.noreply.github.com"
           git clone https://x-access-token:${GH_TOKEN}@github.com/zeketests/crypto-daily-prices.git repo
           cd repo
           pip install requests
