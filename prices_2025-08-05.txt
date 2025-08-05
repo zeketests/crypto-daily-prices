@@ -1,0 +1,100 @@
+1. Bitcoin (BTC): $114365
+2. Ethereum (ETH): $3647.65
+3. XRP (XRP): $3.04
+4. Tether (USDT): $0.999989
+5. BNB (BNB): $758.01
+6. Solana (SOL): $167.47
+7. USDC (USDC): $0.999818
+8. Lido Staked Ether (STETH): $3644.8
+9. TRON (TRX): $0.333126
+10. Dogecoin (DOGE): $0.204278
+11. Cardano (ADA): $0.743004
+12. Wrapped Bitcoin (WBTC): $114318
+13. Wrapped stETH (WSTETH): $4408.42
+14. Hyperliquid (HYPE): $39.45
+15. Stellar (XLM): $0.405804
+16. Sui (SUI): $3.47
+17. Wrapped Beacon ETH (WBETH): $3921.51
+18. Bitcoin Cash (BCH): $570.66
+19. Chainlink (LINK): $16.68
+20. Hedera (HBAR): $0.24726
+21. Wrapped eETH (WEETH): $3912.08
+22. Ethena USDe (USDE): $1.001
+23. Avalanche (AVAX): $22.38
+24. Litecoin (LTC): $123.51
+25. WETH (WETH): $3652.03
+26. LEO Token (LEO): $8.99
+27. Toncoin (TON): $3.32
+28. USDS (USDS): $0.999577
+29. Shiba Inu (SHIB): $1.22e-05
+30. Binance Bridged USDT (BNB Smart Chain) (BSC-USD): $1.001
+31. WhiteBIT Coin (WBT): $42.85
+32. Coinbase Wrapped BTC (CBBTC): $114425
+33. Uniswap (UNI): $9.82
+34. Polkadot (DOT): $3.67
+35. Monero (XMR): $295.27
+36. Ethena Staked USDe (SUSDE): $1.19
+37. Bitget Token (BGB): $4.34
+38. Cronos (CRO): $0.137963
+39. Pepe (PEPE): $1.046e-05
+40. Ethena (ENA): $0.596401
+41. Aave (AAVE): $260.18
+42. Dai (DAI): $0.999926
+43. Bittensor (TAO): $347.24
+44. NEAR Protocol (NEAR): $2.54
+45. Ethereum Classic (ETC): $20.55
+46. Mantle (MNT): $0.912324
+47. Ondo (ONDO): $0.933373
+48. Aptos (APT): $4.32
+49. Internet Computer (ICP): $5.22
+50. Pi Network (PI): $0.352996
+51. OKB (OKB): $45.44
+52. Jito Staked SOL (JITOSOL): $204.62
+53. Kaspa (KAS): $0.088671
+54. BlackRock USD Institutional Digital Liquidity Fund (BUIDL): $1.0
+55. Binance-Peg WETH (WETH): $3657.2
+56. USD1 (USD1): $1.0
+57. Pudgy Penguins (PENGU): $0.03453026
+58. Algorand (ALGO): $0.243413
+59. Arbitrum (ARB): $0.393216
+60. VeChain (VET): $0.02329345
+61. POL (ex-MATIC) (POL): $0.221257
+62. Gate (GT): $16.71
+63. Cosmos Hub (ATOM): $4.29
+64. Fasttoken (FTN): $4.59
+65. Bonk (BONK): $2.525e-05
+66. Render (RENDER): $3.61
+67. sUSDS (SUSDS): $1.062
+68. Story (IP): $6.04
+69. Worldcoin (WLD): $0.961279
+70. Official Trump (TRUMP): $8.83
+71. Binance Staked SOL (BNSOL): $178.8
+72. Artificial Superintelligence Alliance (FET): $0.66085
+73. Rocket Pool ETH (RETH): $4156.23
+74. Jupiter Perpetuals Liquidity Provider Token (JLP): $4.93
+75. Sei (SEI): $0.295558
+76. Sky (SKY): $0.07974
+77. Flare (FLR): $0.02336307
+78. Filecoin (FIL): $2.39
+79. Kelp DAO Restaked ETH (RSETH): $3825.03
+80. Quant (QNT): $109.98
+81. Lombard Staked BTC (LBTC): $114157
+82. Provenance Blockchain (HASH): $0.03266647
+83. SPX6900 (SPX): $1.66
+84. XDC Network (XDC): $0.093836
+85. Jupiter (JUP): $0.477797
+86. USDtb (USDTB): $1.0
+87. StakeWise Staked ETH (OSETH): $3841.06
+88. USDT0 (USDT0): $1.0
+89. KuCoin (KCS): $10.6
+90. Liquid Staked ETH (LSETH): $3946.96
+91. Injective (INJ): $13.6
+92. Mantle Staked Ether (METH): $3914.68
+93. NEXO (NEXO): $1.32
+94. First Digital USD (FDUSD): $0.997827
+95. Stacks (STX): $0.699836
+96. Curve DAO (CRV): $0.905592
+97. Celestia (TIA): $1.69
+98. Polygon Bridged USDT (Polygon) (USDT): $0.99974
+99. Falcon USD (USDF): $0.999921
+100. Renzo Restaked ETH (EZETH): $3855.51
