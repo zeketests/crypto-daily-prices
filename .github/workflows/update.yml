@@ -3,7 +3,7 @@ name: Daily Crypto Price Fetch
 on:
   schedule:
     - cron: '0 12 * * *'  # 12:00 UTC
-  workflow_dispatch:      
+  workflow_dispatch:
 
 jobs:
   fetch-and-commit:
@@ -33,3 +33,4 @@ jobs:
           git add .
           git commit -m "Daily update - $(date '+%Y-%m-%d')" || exit 0
           git push https://x-access-token:${TOKEN}@github.com/zeketests/crypto-daily-prices.git HEAD:main
+
