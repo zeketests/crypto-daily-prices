@@ -23,14 +23,13 @@ jobs:
       - name: Run script
         run: python top100_crypto_prices.py
 
-      - name: Commit and push changes
+      - name: Commit and push using token
         env:
           GH_TOKEN: ${{ secrets.GH_PAT }}
         run: |
-          echo "Token received (length): ${#GH_TOKEN}"
+          echo "Token length: ${#GH_TOKEN}"
           git config --global user.name "zeke-bot"
           git config --global user.email "zeke-bot@example.com"
-          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/zeketests/crypto-daily-prices.git
           git add .
           git commit -m "Daily update - $(date '+%Y-%m-%d')" || exit 0
-          git push origin HEAD:main
+          git push https://x-access-token:${GH_TOKEN}@github.com/zeketests/crypto-daily-prices HEAD:main
