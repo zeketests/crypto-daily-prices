@@ -2,34 +2,24 @@ name: Daily Crypto Price Fetch
 
 on:
   schedule:
-    - cron: '0 12 * * *' #test 12utc
+    - cron: '0 12 * * *'
   workflow_dispatch:
 
 jobs:
   fetch-and-commit:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
-
-      - name: Install dependencies
-        run: pip install requests
-
-      - name: Run script
-        run: python top100_crypto_prices.py
-
-      - name: Commit and push using token
+      - name: Set up Git and clone with token
         env:
           GH_TOKEN: ${{ secrets.GH_PAT }}
         run: |
           echo "Token length: ${#GH_TOKEN}"
           git config --global user.name "zeke-bot"
           git config --global user.email "zeke-bot@example.com"
+          git clone https://x-access-token:${GH_TOKEN}@github.com/zeketests/crypto-daily-prices.git repo
+          cd repo
+          pip install requests
+          python top100_crypto_prices.py
           git add .
           git commit -m "Daily update - $(date '+%Y-%m-%d')" || exit 0
-          git push https://x-access-token:${GH_TOKEN}@github.com/zeketests/crypto-daily-prices HEAD:main
+          git push origin HEAD:main
