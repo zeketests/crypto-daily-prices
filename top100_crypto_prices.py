@@ -1,4 +1,4 @@
-# top100_crypto_prices.py
+import os
 import requests
 from datetime import datetime
 
@@ -11,18 +11,18 @@ def fetch_top_100_cryptos():
         "page": 1
     }
 
-    response = requests.get(url, params=params)
+    response = requests.get(url, params=params, timeout=30)
     data = response.json()
 
-    now = datetime.now().strftime('%Y-%m-%d')
-    filename = f"prices_{now}.txt"
+    today = datetime.now().strftime('%Y-%m-%d')
+    folder = f"data/{today[:4]}/{today[5:7]}"
+    os.makedirs(folder, exist_ok=True)
+
+    filename = os.path.join(folder, f"prices_{today}.txt")
 
     with open(filename, "w", encoding="utf-8") as f:
         for idx, coin in enumerate(data, start=1):
-            name = coin['name']
-            symbol = coin['symbol'].upper()
-            price = coin['current_price']
-            f.write(f"{idx}. {name} ({symbol}): ${price}\n")
+            f.write(f"{idx}. {coin['name']} ({coin['symbol'].upper()}): ${coin['current_price']}\n")
 
 if __name__ == "__main__":
     fetch_top_100_cryptos()
