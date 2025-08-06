@@ -4,7 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-(loading...)
+**Date:** 2025-08-06  
+**Biggest gainer:** MNT ↑ 5.54%  
+**Biggest loser:** HASH ↓ 8.64%  
+**New entries:** EZETH  
+**Removed:** OP
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
