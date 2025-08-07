@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-08-06  
-**Biggest gainer:** CRO ↑ 2.85%  
-**Biggest loser:** HASH ↓ 6.20%  
-**New entries:** PUMP  
-**Removed:** OP
+**Date:** 2025-08-07  
+**Biggest gainer:** PENGU ↑ 12.24%  
+**Biggest loser:** HASH ↓ 11.92%  
+**New entries:** EZETH, OP  
+**Removed:** PUMP
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
