@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-08-09  
-**Biggest gainer:** ENA ↑ 22.02%  
-**Biggest loser:** IP ↓ 1.21%  
-**New entries:** EZETH  
-**Removed:** XAUT
+**Date:** 2025-08-10  
+**Biggest gainer:** KCS ↑ 4.51%  
+**Biggest loser:** SEI ↓ 5.63%  
+**New entries:** None  
+**Removed:** None
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
