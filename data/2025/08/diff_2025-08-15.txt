@@ -1,0 +1,13 @@
+📊 Differences between 2025-08-14 and 2025-08-15
+
+🔼 HYPE ↑ 6.14% ($45.44 → $48.23)
+🔼 MNT ↑ 8.18% ($1.1 → $1.19)
+🔽 OKB ↓ -5.92% ($100.1 → $94.17)
+
+🆕 New in Top 100:
++ HASH
++ KHYPE
+
+❌ Removed from Top 100:
+- CRV
+- LDO
