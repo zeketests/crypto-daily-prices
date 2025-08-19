@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-08-15  
-**Biggest gainer:** MNT ↑ 8.18%  
-**Biggest loser:** OKB ↓ 5.92%  
-**New entries:** HASH, KHYPE  
-**Removed:** CRV, LDO
+**Date:** 2025-08-19  
+**Biggest gainer:** OKB ↑ 12.46%  
+**Biggest loser:** SKY ↓ 4.09%  
+**New entries:** BFUSD  
+**Removed:** OP
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
