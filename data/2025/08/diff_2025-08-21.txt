@@ -1,0 +1,10 @@
+📊 Differences between 2025-08-20 and 2025-08-21
+
+🔽 MNT ↓ -6.52% ($1.38 → $1.29)
+🔼 OKB ↑ 47.90% ($128.65 → $190.27)
+
+🆕 New in Top 100:
++ XAUT
+
+❌ Removed from Top 100:
+- SPX

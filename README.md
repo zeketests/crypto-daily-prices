@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-08-20  
-**Biggest gainer:** LINK ↑ 3.31%  
-**Biggest loser:** ADA ↓ 7.37%  
-**New entries:** OP  
-**Removed:** FDUSD
+**Date:** 2025-08-21  
+**Biggest gainer:** OKB ↑ 47.90%  
+**Biggest loser:** MNT ↓ 6.52%  
+**New entries:** XAUT  
+**Removed:** SPX
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
