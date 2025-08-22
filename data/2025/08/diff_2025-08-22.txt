@@ -1,0 +1,9 @@
+📊 Differences between 2025-08-21 and 2025-08-22
+
+🔼 OKB ↑ 14.80% ($190.27 → $218.43)
+
+🆕 New in Top 100:
++ PYUSD
+
+❌ Removed from Top 100:
+- HASH
