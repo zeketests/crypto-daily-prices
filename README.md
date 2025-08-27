@@ -4,9 +4,9 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-08-26  
-**Biggest gainer:** KHYPE ↑ 1.13%  
-**Biggest loser:** LINK ↓ 7.63%  
+**Date:** 2025-08-27  
+**Biggest gainer:** CRO ↑ 42.76%  
+**Biggest loser:** XDC ↓ 2.37%  
 **New entries:** None  
 **Removed:** None
 <!-- AUTO-UPDATE-END -->
