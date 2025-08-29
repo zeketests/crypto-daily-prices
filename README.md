@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-08-28  
-**Biggest gainer:** CRO ↑ 50.45%  
-**Biggest loser:** OKB ↓ 5.01%  
-**New entries:** FORM, JUPSOL  
-**Removed:** OP, HASH
+**Date:** 2025-08-29  
+**Biggest gainer:** FORM ↑ 3.11%  
+**Biggest loser:** CRO ↓ 14.56%  
+**New entries:** HASH  
+**Removed:** JUPSOL
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
