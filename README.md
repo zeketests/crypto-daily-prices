@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-09-03  
-**Biggest gainer:** M ↑ 15.88%  
-**Biggest loser:** WLFI ↓ 8.07%  
-**New entries:** FORM  
-**Removed:** METH
+**Date:** 2025-09-04  
+**Biggest gainer:** M ↑ 18.81%  
+**Biggest loser:** WLFI ↓ 21.52%  
+**New entries:** None  
+**Removed:** None
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
