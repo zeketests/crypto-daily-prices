@@ -4,9 +4,9 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-09-04  
-**Biggest gainer:** M ↑ 18.81%  
-**Biggest loser:** WLFI ↓ 21.52%  
+**Date:** 2025-09-05  
+**Biggest gainer:** M ↑ 48.25%  
+**Biggest loser:** ENA ↓ 5.29%  
 **New entries:** None  
 **Removed:** None
 <!-- AUTO-UPDATE-END -->
