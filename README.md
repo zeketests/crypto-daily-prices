@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-09-05  
-**Biggest gainer:** M ↑ 48.25%  
-**Biggest loser:** ENA ↓ 5.29%  
-**New entries:** None  
-**Removed:** None
+**Date:** 2025-09-09  
+**Biggest gainer:** WLD ↑ 56.80%  
+**Biggest loser:** OKB ↓ 3.76%  
+**New entries:** MYX, TIA  
+**Removed:** XAUT, FORM
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
