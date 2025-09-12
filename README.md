@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-09-11  
-**Biggest gainer:** MNT ↑ 13.29%  
-**Biggest loser:** WLD ↓ 7.85%  
-**New entries:** OP, INJ  
-**Removed:** XDC, SPX
+**Date:** 2025-09-12  
+**Biggest gainer:** PENGU ↑ 9.83%  
+**Biggest loser:** WLD ↓ 6.25%  
+**New entries:** EZETH  
+**Removed:** OP
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
