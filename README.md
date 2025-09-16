@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-09-12  
-**Biggest gainer:** PENGU ↑ 9.83%  
-**Biggest loser:** WLD ↓ 6.25%  
-**New entries:** EZETH  
-**Removed:** OP
+**Date:** 2025-09-16  
+**Biggest gainer:** PUMP ↑ 7.88%  
+**Biggest loser:** ENA ↓ 5.14%  
+**New entries:** IMX  
+**Removed:** PYUSD
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
