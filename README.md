@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-09-16  
-**Biggest gainer:** PUMP ↑ 7.88%  
-**Biggest loser:** ENA ↓ 5.14%  
-**New entries:** IMX  
-**Removed:** PYUSD
+**Date:** 2025-09-17  
+**Biggest gainer:** MYX ↑ 52.64%  
+**Biggest loser:** XMR ↓ 3.43%  
+**New entries:** OP  
+**Removed:** XAUT
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
