@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-09-19  
-**Biggest gainer:** IMX ↑ 14.76%  
-**Biggest loser:** MYX ↓ 24.94%  
-**New entries:** None  
-**Removed:** TIA
+**Date:** 2025-09-23  
+**Biggest gainer:** AVAX ↑ 14.28%  
+**Biggest loser:** M ↓ 10.57%  
+**New entries:** XDC  
+**Removed:** IMX
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
