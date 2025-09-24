@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-09-23  
-**Biggest gainer:** AVAX ↑ 14.28%  
-**Biggest loser:** M ↓ 10.57%  
-**New entries:** XDC  
-**Removed:** IMX
+**Date:** 2025-09-24  
+**Biggest gainer:** ASTER ↑ 33.53%  
+**Biggest loser:** KHYPE ↓ 13.19%  
+**New entries:** IMX, QNT  
+**Removed:** XAUT, XDC
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
