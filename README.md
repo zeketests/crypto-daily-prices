@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-09-25  
-**Biggest gainer:** MYX ↑ 26.95%  
-**Biggest loser:** IP ↓ 24.19%  
-**New entries:** XAUT  
-**Removed:** QNT
+**Date:** 2025-09-26  
+**Biggest gainer:** MNT ↑ 4.27%  
+**Biggest loser:** IP ↓ 23.95%  
+**New entries:** XPL  
+**Removed:** None
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
