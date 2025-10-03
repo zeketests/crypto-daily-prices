@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-10-02  
-**Biggest gainer:** ZEC ↑ 58.14%  
-**Biggest loser:** M ↓ 15.16%  
-**New entries:** C1USD  
-**Removed:** LBTC
+**Date:** 2025-10-03  
+**Biggest gainer:** ASTER ↑ 10.29%  
+**Biggest loser:** MYX ↓ 41.17%  
+**New entries:** 2Z, LBTC  
+**Removed:** JUP, XAUT
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
