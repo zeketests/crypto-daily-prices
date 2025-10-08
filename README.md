@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-10-07  
-**Biggest gainer:** XPL ↑ 11.14%  
-**Biggest loser:** HASH ↓ 9.97%  
-**New entries:** EZETH  
-**Removed:** LBTC
+**Date:** 2025-10-08  
+**Biggest gainer:** MNT ↑ 5.17%  
+**Biggest loser:** XPL ↓ 10.98%  
+**New entries:** CAKE, XAUT, LBTC  
+**Removed:** FET, 2Z, EZETH
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
