@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-10-09  
-**Biggest gainer:** ZEC ↑ 22.36%  
-**Biggest loser:** ASTER ↓ 11.33%  
-**New entries:** EZETH, FET  
-**Removed:** CAKE, XPL
+**Date:** 2025-10-10  
+**Biggest gainer:** ZEC ↑ 35.73%  
+**Biggest loser:** MNT ↓ 12.79%  
+**New entries:** HTX  
+**Removed:** FET
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
