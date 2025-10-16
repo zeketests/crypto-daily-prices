@@ -4,9 +4,9 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-10-15  
-**Biggest gainer:** COAI ↑ 108.33%  
-**Biggest loser:** HASH ↓ 4.94%  
+**Date:** 2025-10-16  
+**Biggest gainer:** COAI ↑ 55.69%  
+**Biggest loser:** TAO ↓ 12.81%  
 **New entries:** None  
 **Removed:** None
 <!-- AUTO-UPDATE-END -->
