@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-10-17  
-**Biggest gainer:** PAXG ↑ 3.73%  
-**Biggest loser:** COAI ↓ 35.93%  
-**New entries:** SYRUPUSDC  
-**Removed:** TRUMP
+**Date:** 2025-10-21  
+**Biggest gainer:** HASH ↑ 6.41%  
+**Biggest loser:** ASTER ↓ 9.09%  
+**New entries:** COAI  
+**Removed:** C1USD
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
