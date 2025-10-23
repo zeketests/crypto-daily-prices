@@ -4,9 +4,9 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-10-22  
-**Biggest gainer:** COAI ↑ 62.01%  
-**Biggest loser:** ASTER ↓ 8.82%  
+**Date:** 2025-10-23  
+**Biggest gainer:** COAI ↑ 44.09%  
+**Biggest loser:** ZEC ↓ 12.15%  
 **New entries:** None  
 **Removed:** None
 <!-- AUTO-UPDATE-END -->
