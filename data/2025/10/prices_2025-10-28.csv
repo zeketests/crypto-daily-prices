@@ -1,0 +1,101 @@
+rank,name,symbol,price
+1,Bitcoin,BTC,114298
+2,Ethereum,ETH,4114.11
+3,Tether,USDT,1.0
+4,XRP,XRP,2.65
+5,BNB,BNB,1134.25
+6,Solana,SOL,202.8
+7,USDC,USDC,0.999806
+8,Lido Staked Ether,STETH,4114.56
+9,Dogecoin,DOGE,0.200205
+10,TRON,TRX,0.297313
+11,Cardano,ADA,0.664523
+12,Figure Heloc,FIGR_HELOC,1.36
+13,Wrapped stETH,WSTETH,5011.27
+14,Wrapped Beacon ETH,WBETH,4445.58
+15,Wrapped Bitcoin,WBTC,114286
+16,Chainlink,LINK,18.4
+17,Hyperliquid,HYPE,46.87
+18,Bitcoin Cash,BCH,554.32
+19,Wrapped eETH,WEETH,4443.33
+20,Stellar,XLM,0.332522
+21,Ethena USDe,USDE,0.999227
+22,Sui,SUI,2.62
+23,USDS,USDS,1.001
+24,WETH,WETH,4115.31
+25,Binance Bridged USDT (BNB Smart Chain),BSC-USD,0.999897
+26,Hedera,HBAR,0.209334
+27,LEO Token,LEO,9.44
+28,Avalanche,AVAX,20.35
+29,Coinbase Wrapped BTC,CBBTC,114299
+30,Litecoin,LTC,101.54
+31,USDT0,USDT0,0.999778
+32,Monero,XMR,344.81
+33,WhiteBIT Coin,WBT,43.09
+34,Shiba Inu,SHIB,1.033e-05
+35,Toncoin,TON,2.26
+36,Cronos,CRO,0.152251
+37,Zcash,ZEC,327.53
+38,Mantle,MNT,1.63
+39,Ethena Staked USDe,SUSDE,1.2
+40,Polkadot,DOT,3.14
+41,Dai,DAI,0.999823
+42,Bittensor,TAO,440.84
+43,World Liberty Financial,WLFI,0.146116
+44,Uniswap,UNI,6.56
+45,MemeCore,M,2.19
+46,Aave,AAVE,236.68
+47,Ethena,ENA,0.493293
+48,OKB,OKB,166.17
+49,sUSDS,SUSDS,1.069
+50,Bitget Token,BGB,4.77
+51,Pepe,PEPE,7.15e-06
+52,USD1,USD1,1.0
+53,NEAR Protocol,NEAR,2.33
+54,Jito Staked SOL,JITOSOL,251.48
+55,BlackRock USD Institutional Digital Liquidity Fund,BUIDL,1.0
+56,PayPal USD,PYUSD,1.0
+57,Wrapped SOL,SOL,202.83
+58,Ethereum Classic,ETC,16.44
+59,Aptos,APT,3.47
+60,Binance-Peg WETH,WETH,4116.23
+61,Ondo,ONDO,0.748732
+62,Jupiter Perpetuals Liquidity Provider Token,JLP,5.65
+63,Falcon USD,USDF,0.998367
+64,Aster,ASTER,1.068
+65,POL (ex-MATIC),POL,0.200891
+66,Tether Gold,XAUT,3906.06
+67,Worldcoin,WLD,0.897471
+68,Pi Network,PI,0.230619
+69,Rocket Pool ETH,RETH,4720.73
+70,USDtb,USDTB,0.998963
+71,Arbitrum,ARB,0.329342
+72,Gate,GT,15.31
+73,Binance Staked SOL,BNSOL,218.65
+74,Pump.fun,PUMP,0.00498925
+75,KuCoin,KCS,13.62
+76,HTX DAO,HTX,1.87e-06
+77,Internet Computer,ICP,3.19
+78,Kinetiq Staked HYPE,KHYPE,47.1
+79,Algorand,ALGO,0.192222
+80,Story,IP,5.23
+81,Provenance Blockchain,HASH,0.03285987
+82,Kelp DAO Restaked ETH,RSETH,4349.33
+83,StakeWise Staked ETH,OSETH,4348.57
+84,Kaspa,KAS,0.057529
+85,Cosmos Hub,ATOM,3.18
+86,VeChain,VET,0.0173006
+87,Liquid Staked ETH,LSETH,4424.56
+88,Wrapped BNB,WBNB,1134.81
+89,Jupiter,JUP,0.440725
+90,Sky,SKY,0.058808
+91,Official Trump,TRUMP,6.84
+92,Lombard Staked BTC,LBTC,114314
+93,Pudgy Penguins,PENGU,0.02133605
+94,Syrup USDC,SYRUPUSDC,1.13
+95,BFUSD,BFUSD,0.999919
+96,Renzo Restaked ETH,EZETH,4372.42
+97,Flare,FLR,0.01707198
+98,PAX Gold,PAXG,3913.22
+99,Render,RENDER,2.5
+100,Sei,SEI,0.201335
