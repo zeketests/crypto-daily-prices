@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-10-28  
-**Biggest gainer:** FIGR_HELOC ↑ 36.00%  
-**Biggest loser:** PI ↓ 11.44%  
-**New entries:** None  
-**Removed:** None
+**Date:** 2025-10-29  
+**Biggest gainer:** PI ↑ 14.77%  
+**Biggest loser:** FIGR_HELOC ↓ 24.19%  
+**New entries:** SYRUPUSDT  
+**Removed:** SEI
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
