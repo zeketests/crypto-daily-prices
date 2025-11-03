@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-11-02  
-**Biggest gainer:** ICP ↑ 9.66%  
-**Biggest loser:** HASH ↓ 8.51%  
-**New entries:** FIL  
-**Removed:** RENDER
+**Date:** 2025-11-03  
+**Biggest gainer:** WBT ↑ 9.06%  
+**Biggest loser:** MNT ↓ 11.03%  
+**New entries:** None  
+**Removed:** FIL
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
