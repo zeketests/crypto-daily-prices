@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-11-05  
-**Biggest gainer:** ASTER ↑ 15.08%  
-**Biggest loser:** DASH ↓ 18.82%  
-**New entries:** C1USD  
-**Removed:** EZETH
+**Date:** 2025-11-06  
+**Biggest gainer:** ICP ↑ 22.52%  
+**Biggest loser:** XMR ↓ 4.86%  
+**New entries:** QNT, FLR  
+**Removed:** JUP, IP
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
