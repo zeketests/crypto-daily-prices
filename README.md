@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-11-07  
-**Biggest gainer:** ICP ↑ 43.21%  
-**Biggest loser:** ASTER ↓ 4.95%  
-**New entries:** FIL, AIA, IP  
-**Removed:** LSETH, FLR, SKY
+**Date:** 2025-11-08  
+**Biggest gainer:** FIL ↑ 52.27%  
+**Biggest loser:** ZEC ↓ 13.96%  
+**New entries:** FLR, RENDER, SKY  
+**Removed:** AIA, DASH, SYRUPUSDC
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
