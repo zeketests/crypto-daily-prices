@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-11-08  
-**Biggest gainer:** FIL ↑ 52.27%  
-**Biggest loser:** ZEC ↓ 13.96%  
-**New entries:** FLR, RENDER, SKY  
-**Removed:** AIA, DASH, SYRUPUSDC
+**Date:** 2025-11-09  
+**Biggest gainer:** XMR ↑ 13.88%  
+**Biggest loser:** FIL ↓ 20.60%  
+**New entries:** SYRUPUSDC  
+**Removed:** RENDER
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
