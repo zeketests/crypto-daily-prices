@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-11-10  
-**Biggest gainer:** WLFI ↑ 25.91%  
-**Biggest loser:** ICP ↓ 8.08%  
-**New entries:** CC, RENDER  
-**Removed:** IP, SYRUPUSDC
+**Date:** 2025-11-11  
+**Biggest gainer:** UNI ↑ 22.32%  
+**Biggest loser:** CC ↓ 29.66%  
+**New entries:** IP  
+**Removed:** OSETH
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
