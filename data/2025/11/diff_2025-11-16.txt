@@ -1,0 +1,12 @@
+📊 Differences between 2025-11-15 and 2025-11-16
+
+🔼 UNI ↑ 6.12% ($7.35 → $7.8)
+🔽 M ↓ -5.56% ($2.34 → $2.21)
+
+🆕 New in Top 100:
++ DASH
++ FLR
+
+❌ Removed from Top 100:
+- RENDER
+- LBTC
