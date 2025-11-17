@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-11-16  
-**Biggest gainer:** UNI ↑ 6.12%  
-**Biggest loser:** M ↓ 5.56%  
-**New entries:** DASH, FLR  
-**Removed:** RENDER, LBTC
+**Date:** 2025-11-17  
+**Biggest gainer:** ASTER ↑ 4.24%  
+**Biggest loser:** ICP ↓ 8.74%  
+**New entries:** LBTC  
+**Removed:** DASH
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
