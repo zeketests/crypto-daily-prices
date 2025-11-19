@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-11-18  
-**Biggest gainer:** ICP ↑ 15.27%  
-**Biggest loser:** ZEC ↓ 10.96%  
-**New entries:** RLUSD, USYC  
-**Removed:** LBTC, FLR
+**Date:** 2025-11-19  
+**Biggest gainer:** WBT ↑ 18.86%  
+**Biggest loser:** ICP ↓ 10.78%  
+**New entries:** None  
+**Removed:** None
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
