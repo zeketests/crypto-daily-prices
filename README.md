@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-11-19  
-**Biggest gainer:** WBT ↑ 18.86%  
-**Biggest loser:** ICP ↓ 10.78%  
-**New entries:** None  
-**Removed:** None
+**Date:** 2025-11-20  
+**Biggest gainer:** ATOM ↑ 13.24%  
+**Biggest loser:** CC ↓ 12.38%  
+**New entries:** STRK  
+**Removed:** RSETH
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
