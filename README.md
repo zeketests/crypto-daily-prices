@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-11-20  
-**Biggest gainer:** ATOM ↑ 13.24%  
-**Biggest loser:** CC ↓ 12.38%  
-**New entries:** STRK  
-**Removed:** RSETH
+**Date:** 2025-11-21  
+**Biggest gainer:** SUSDS ↑ 0.56%  
+**Biggest loser:** HASH ↓ 19.85%  
+**New entries:** None  
+**Removed:** None
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
