@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-11-21  
-**Biggest gainer:** SUSDS ↑ 0.56%  
-**Biggest loser:** HASH ↓ 19.85%  
-**New entries:** None  
-**Removed:** None
+**Date:** 2025-11-22  
+**Biggest gainer:** WLFI ↑ 19.38%  
+**Biggest loser:** ZEC ↓ 26.51%  
+**New entries:** USTB, FLR  
+**Removed:** SYRUPUSDT, STRK
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
