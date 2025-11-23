@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-11-22  
-**Biggest gainer:** WLFI ↑ 19.38%  
-**Biggest loser:** ZEC ↓ 26.51%  
-**New entries:** USTB, FLR  
-**Removed:** SYRUPUSDT, STRK
+**Date:** 2025-11-23  
+**Biggest gainer:** XMR ↑ 18.30%  
+**Biggest loser:** M ↓ 9.05%  
+**New entries:** RSETH, LBTC  
+**Removed:** USTB, SKY
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
