@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-11-23  
-**Biggest gainer:** XMR ↑ 18.30%  
-**Biggest loser:** M ↓ 9.05%  
-**New entries:** RSETH, LBTC  
-**Removed:** USTB, SKY
+**Date:** 2025-11-24  
+**Biggest gainer:** CC ↑ 11.41%  
+**Biggest loser:** HASH ↓ 8.80%  
+**New entries:** SKY, XDC  
+**Removed:** KHYPE, C1USD
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
