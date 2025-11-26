@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-11-25  
-**Biggest gainer:** KAS ↑ 27.07%  
-**Biggest loser:** ZEC ↓ 6.27%  
-**New entries:** RAIN, KHYPE  
-**Removed:** LBTC, SKY
+**Date:** 2025-11-26  
+**Biggest gainer:** ENA ↑ 9.84%  
+**Biggest loser:** ASTER ↓ 3.51%  
+**New entries:** None  
+**Removed:** None
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
