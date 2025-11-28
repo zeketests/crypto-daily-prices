@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-11-27  
-**Biggest gainer:** KAS ↑ 20.78%  
-**Biggest loser:** M ↓ 31.32%  
-**New entries:** SKY  
-**Removed:** XDC
+**Date:** 2025-11-28  
+**Biggest gainer:** SKY ↑ 7.63%  
+**Biggest loser:** KAS ↓ 7.42%  
+**New entries:** None  
+**Removed:** None
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
