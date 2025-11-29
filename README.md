@@ -4,9 +4,9 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-11-28  
-**Biggest gainer:** SKY ↑ 7.63%  
-**Biggest loser:** KAS ↓ 7.42%  
+**Date:** 2025-11-29  
+**Biggest gainer:** M ↑ 14.84%  
+**Biggest loser:** PUMP ↓ 7.82%  
 **New entries:** None  
 **Removed:** None
 <!-- AUTO-UPDATE-END -->
