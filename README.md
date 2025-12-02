@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-11-30  
-**Biggest gainer:** QNT ↑ 14.45%  
-**Biggest loser:** M ↓ 12.24%  
-**New entries:** LBTC  
-**Removed:** KHYPE
+**Date:** 2025-12-02  
+**Biggest gainer:** HASH ↑ 12.70%  
+**Biggest loser:** CC ↓ 11.93%  
+**New entries:** None  
+**Removed:** None
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
