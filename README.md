@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-12-03  
-**Biggest gainer:** SUI ↑ 30.37%  
-**Biggest loser:** LEO ↓ 4.87%  
-**New entries:** None  
-**Removed:** None
+**Date:** 2025-12-04  
+**Biggest gainer:** TAO ↑ 8.42%  
+**Biggest loser:** HASH ↓ 10.78%  
+**New entries:** LSETH  
+**Removed:** USDTB
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
