@@ -4,9 +4,9 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-12-06  
-**Biggest gainer:** HASH ↑ 11.86%  
-**Biggest loser:** CC ↓ 14.87%  
+**Date:** 2025-12-07  
+**Biggest gainer:** AAVE ↑ 3.07%  
+**Biggest loser:** HASH ↓ 6.85%  
 **New entries:** None  
 **Removed:** None
 <!-- AUTO-UPDATE-END -->
