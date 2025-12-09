@@ -4,9 +4,9 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-12-08  
-**Biggest gainer:** ZEC ↑ 15.63%  
-**Biggest loser:** M ↓ 3.15%  
+**Date:** 2025-12-09  
+**Biggest gainer:** M ↑ 7.32%  
+**Biggest loser:** HASH ↓ 9.40%  
 **New entries:** None  
 **Removed:** None
 <!-- AUTO-UPDATE-END -->
