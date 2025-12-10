@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-12-09  
-**Biggest gainer:** M ↑ 7.32%  
-**Biggest loser:** HASH ↓ 9.40%  
-**New entries:** None  
-**Removed:** None
+**Date:** 2025-12-10  
+**Biggest gainer:** ADA ↑ 9.52%  
+**Biggest loser:** TAO ↓ 2.48%  
+**New entries:** LSETH  
+**Removed:** USDTB
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
