@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-12-11  
-**Biggest gainer:** HASH ↑ 8.21%  
-**Biggest loser:** ADA ↓ 8.88%  
-**New entries:** EETH  
-**Removed:** FIL
+**Date:** 2025-12-12  
+**Biggest gainer:** ZEC ↑ 8.52%  
+**Biggest loser:** CC ↓ 4.88%  
+**New entries:** LBTC  
+**Removed:** EETH
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
