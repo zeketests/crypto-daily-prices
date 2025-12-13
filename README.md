@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-12-12  
-**Biggest gainer:** ZEC ↑ 8.52%  
-**Biggest loser:** CC ↓ 4.88%  
-**New entries:** LBTC  
-**Removed:** EETH
+**Date:** 2025-12-13  
+**Biggest gainer:** M ↑ 7.74%  
+**Biggest loser:** ENA ↓ 4.94%  
+**New entries:** None  
+**Removed:** None
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
