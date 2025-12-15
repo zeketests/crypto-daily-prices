@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-12-14  
-**Biggest gainer:** M ↑ 5.99%  
-**Biggest loser:** HASH ↓ 13.28%  
-**New entries:** NIGHT  
-**Removed:** FLR
+**Date:** 2025-12-15  
+**Biggest gainer:** HASH ↑ 14.25%  
+**Biggest loser:** NIGHT ↓ 5.16%  
+**New entries:** SOLVBTC  
+**Removed:** VET
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
