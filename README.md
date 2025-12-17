@@ -4,9 +4,9 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-12-16  
-**Biggest gainer:** FIGR_HELOC ↑ 3.10%  
-**Biggest loser:** ASTER ↓ 12.92%  
+**Date:** 2025-12-17  
+**Biggest gainer:** SKY ↑ 5.12%  
+**Biggest loser:** ASTER ↓ 8.54%  
 **New entries:** None  
 **Removed:** None
 <!-- AUTO-UPDATE-END -->
