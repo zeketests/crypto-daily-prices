@@ -4,9 +4,9 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-12-17  
-**Biggest gainer:** SKY ↑ 5.12%  
-**Biggest loser:** ASTER ↓ 8.54%  
+**Date:** 2025-12-18  
+**Biggest gainer:** NIGHT ↑ 7.59%  
+**Biggest loser:** LEO ↓ 27.49%  
 **New entries:** None  
 **Removed:** None
 <!-- AUTO-UPDATE-END -->
