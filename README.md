@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-12-22  
-**Biggest gainer:** NIGHT ↑ 6.37%  
-**Biggest loser:** CC ↓ 16.92%  
-**New entries:** JAAA  
-**Removed:** ATOM
+**Date:** 2025-12-23  
+**Biggest gainer:** HASH ↑ 8.87%  
+**Biggest loser:** NIGHT ↓ 15.61%  
+**New entries:** NEXO  
+**Removed:** FIL
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
