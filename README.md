@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-12-26  
-**Biggest gainer:** WLFI ↑ 5.39%  
-**Biggest loser:** RAIN ↓ 16.08%  
-**New entries:** XDC  
-**Removed:** FIL
+**Date:** 2025-12-27  
+**Biggest gainer:** RAIN ↑ 10.83%  
+**Biggest loser:** SKY ↓ 8.08%  
+**New entries:** None  
+**Removed:** None
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
