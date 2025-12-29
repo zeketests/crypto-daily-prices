@@ -1,0 +1,11 @@
+📊 Differences between 2025-12-28 and 2025-12-29
+
+🔼 CC ↑ 7.25% ($0.116707 → $0.125168)
+🔼 NIGHT ↑ 8.02% ($0.086272 → $0.093192)
+
+🆕 New in Top 100:
++ LBTC
+
+❌ Removed from Top 100:
+- VET
+- SOLVBTC

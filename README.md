@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-12-28  
-**Biggest gainer:** CC ↑ 14.94%  
-**Biggest loser:** HYPE ↓ 1.60%  
-**New entries:** FIL, VET  
-**Removed:** XDC, LBTC
+**Date:** 2025-12-29  
+**Biggest gainer:** NIGHT ↑ 8.02%  
+**Biggest loser:** NEAR ↓ 3.73%  
+**New entries:** LBTC  
+**Removed:** VET, SOLVBTC
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
