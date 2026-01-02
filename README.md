@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2025-12-31  
-**Biggest gainer:** M ↑ 10.42%  
-**Biggest loser:** NIGHT ↓ 8.81%  
-**New entries:** SOLVBTC  
-**Removed:** ATOM
+**Date:** 2026-01-02  
+**Biggest gainer:** PEPE ↑ 22.41%  
+**Biggest loser:** M ↓ 9.88%  
+**New entries:** ATOM  
+**Removed:** LBTC
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
