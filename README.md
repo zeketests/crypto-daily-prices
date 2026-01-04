@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-01-03  
-**Biggest gainer:** PEPE ↑ 19.88%  
-**Biggest loser:** LEO ↓ 4.05%  
-**New entries:** MYX, VET  
-**Removed:** TRUMP, FBTC
+**Date:** 2026-01-04  
+**Biggest gainer:** PEPE ↑ 14.12%  
+**Biggest loser:** HASH ↓ 8.91%  
+**New entries:** TRUMP, BONK  
+**Removed:** VET, XDC
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
