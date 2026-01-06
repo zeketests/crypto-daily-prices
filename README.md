@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-01-05  
-**Biggest gainer:** HYPE ↑ 5.91%  
-**Biggest loser:** HASH ↓ 8.36%  
-**New entries:** RENDER, VET  
-**Removed:** MYX
+**Date:** 2026-01-06  
+**Biggest gainer:** SUI ↑ 16.67%  
+**Biggest loser:** NIGHT ↓ 11.02%  
+**New entries:** FBTC  
+**Removed:** JAAA
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
