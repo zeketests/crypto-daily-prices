@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-01-06  
-**Biggest gainer:** SUI ↑ 16.67%  
-**Biggest loser:** NIGHT ↓ 11.02%  
-**New entries:** FBTC  
-**Removed:** JAAA
+**Date:** 2026-01-07  
+**Biggest gainer:** RAIN ↑ 8.31%  
+**Biggest loser:** HASH ↓ 11.11%  
+**New entries:** FLR  
+**Removed:** FBTC
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
