@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-01-08  
-**Biggest gainer:** CC ↑ 2.98%  
-**Biggest loser:** ZEC ↓ 16.29%  
-**New entries:** FBTC  
-**Removed:** FLR, BONK
+**Date:** 2026-01-09  
+**Biggest gainer:** POL ↑ 13.46%  
+**Biggest loser:** SKY ↓ 5.04%  
+**New entries:** None  
+**Removed:** None
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
