@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-01-11  
-**Biggest gainer:** XMR ↑ 7.90%  
-**Biggest loser:** HASH ↓ 6.65%  
-**New entries:** FBTC  
-**Removed:** LBTC
+**Date:** 2026-01-12  
+**Biggest gainer:** XMR ↑ 18.46%  
+**Biggest loser:** HASH ↓ 11.15%  
+**New entries:** MYX, LBTC  
+**Removed:** VET, FBTC
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
