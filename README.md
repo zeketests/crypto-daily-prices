@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-01-14  
-**Biggest gainer:** IP ↑ 27.48%  
-**Biggest loser:** HASH ↓ 9.40%  
-**New entries:** VET  
-**Removed:** FBTC
+**Date:** 2026-01-15  
+**Biggest gainer:** HASH ↑ 17.54%  
+**Biggest loser:** CC ↓ 8.75%  
+**New entries:** FBTC, LBTC  
+**Removed:** VET, IP
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
