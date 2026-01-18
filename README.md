@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-01-17  
-**Biggest gainer:** QNT ↑ 14.29%  
-**Biggest loser:** XMR ↓ 12.41%  
-**New entries:** VET, LBTC  
-**Removed:** DASH, MYX
+**Date:** 2026-01-18  
+**Biggest gainer:** HASH ↑ 22.85%  
+**Biggest loser:** PUMP ↓ 8.36%  
+**New entries:** USDD, DASH  
+**Removed:** NIGHT, VET
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
