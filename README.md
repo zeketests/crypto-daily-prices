@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-01-20  
-**Biggest gainer:** CC ↑ 10.40%  
-**Biggest loser:** ICP ↓ 14.35%  
-**New entries:** MYX  
-**Removed:** DASH
+**Date:** 2026-01-21  
+**Biggest gainer:** CC ↑ 10.58%  
+**Biggest loser:** XMR ↓ 18.47%  
+**New entries:** NIGHT  
+**Removed:** LBTC
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
