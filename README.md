@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-01-24  
-**Biggest gainer:** HYPE ↑ 11.10%  
-**Biggest loser:** TRX ↓ 3.66%  
-**New entries:** RIVER  
-**Removed:** NIGHT
+**Date:** 2026-01-25  
+**Biggest gainer:** RIVER ↑ 18.38%  
+**Biggest loser:** HASH ↓ 10.00%  
+**New entries:** NIGHT  
+**Removed:** FIL
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
