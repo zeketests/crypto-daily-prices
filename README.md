@@ -4,9 +4,9 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-01-28  
-**Biggest gainer:** HYPE ↑ 23.56%  
-**Biggest loser:** RIVER ↓ 10.31%  
+**Date:** 2026-01-29  
+**Biggest gainer:** WLD ↑ 7.30%  
+**Biggest loser:** PUMP ↓ 7.51%  
 **New entries:** None  
 **Removed:** None
 <!-- AUTO-UPDATE-END -->
