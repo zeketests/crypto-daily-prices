@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-01-29  
-**Biggest gainer:** WLD ↑ 7.30%  
-**Biggest loser:** PUMP ↓ 7.51%  
-**New entries:** None  
-**Removed:** None
+**Date:** 2026-01-30  
+**Biggest gainer:** CC ↑ 4.96%  
+**Biggest loser:** UNI ↓ 10.43%  
+**New entries:** TRUMP, NEXO  
+**Removed:** NIGHT, RIVER
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
