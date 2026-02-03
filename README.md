@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-02-02  
-**Biggest gainer:** MYX ↑ 13.24%  
-**Biggest loser:** PUMP ↓ 7.63%  
-**New entries:** FLR  
-**Removed:** KAS
+**Date:** 2026-02-03  
+**Biggest gainer:** HYPE ↑ 18.50%  
+**Biggest loser:** XMR ↓ 7.41%  
+**New entries:** KAS  
+**Removed:** USTB
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
