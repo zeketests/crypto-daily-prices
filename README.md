@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-02-03  
-**Biggest gainer:** HYPE ↑ 18.50%  
-**Biggest loser:** XMR ↓ 7.41%  
-**New entries:** KAS  
-**Removed:** USTB
+**Date:** 2026-02-04  
+**Biggest gainer:** WLFI ↑ 5.61%  
+**Biggest loser:** HYPE ↓ 9.92%  
+**New entries:** USTB, NIGHT, FIL, NEXO, RENDER, ARB, VET, JAAA, MORPHO, USDY, XDC, OUSG, EUTBL, BONK, BDX, JUP, USDAI, USD0, SEI, JTRSY, STX, DASH, CAKE  
+**Removed:** LBTC, USDT0, SUSDE, RSETH, RETH, BSC-USD, WBNB, SYRUPUSDC, USDC.E, CBBTC, WETH, WBETH, WEETH, STETH, WSTETH, JLP, WBTC, BNSOL, FBTC, JITOSOL
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
