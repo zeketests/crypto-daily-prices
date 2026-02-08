@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-02-07  
-**Biggest gainer:** LEO ↑ 17.51%  
-**Biggest loser:** WLFI ↓ 6.50%  
-**New entries:** STX  
-**Removed:** FTN
+**Date:** 2026-02-08  
+**Biggest gainer:** ASTER ↑ 11.43%  
+**Biggest loser:** M ↓ 10.06%  
+**New entries:** None  
+**Removed:** None
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
