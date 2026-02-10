@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-02-09  
-**Biggest gainer:** WLFI ↑ 7.66%  
-**Biggest loser:** JUP ↓ 7.33%  
-**New entries:** FTN  
-**Removed:** STX
+**Date:** 2026-02-10  
+**Biggest gainer:** RAIN ↑ 19.09%  
+**Biggest loser:** HYPE ↓ 5.14%  
+**New entries:** None  
+**Removed:** None
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
