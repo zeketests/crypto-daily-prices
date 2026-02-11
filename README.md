@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-02-10  
-**Biggest gainer:** RAIN ↑ 19.09%  
-**Biggest loser:** HYPE ↓ 5.14%  
-**New entries:** None  
-**Removed:** None
+**Date:** 2026-02-11  
+**Biggest gainer:** XMR ↑ 4.20%  
+**Biggest loser:** MYX ↓ 16.72%  
+**New entries:** PIPPIN  
+**Removed:** JUP
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
