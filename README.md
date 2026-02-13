@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-02-12  
-**Biggest gainer:** ASTER ↑ 12.04%  
-**Biggest loser:** MYX ↓ 37.35%  
-**New entries:** STX  
-**Removed:** FTN
+**Date:** 2026-02-13  
+**Biggest gainer:** PIPPIN ↑ 7.92%  
+**Biggest loser:** CC ↓ 6.18%  
+**New entries:** None  
+**Removed:** None
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
