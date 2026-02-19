@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-02-18  
-**Biggest gainer:** HASH ↑ 20.94%  
-**Biggest loser:** STABLE ↓ 4.69%  
-**New entries:** DASH  
-**Removed:** PIPPIN
+**Date:** 2026-02-19  
+**Biggest gainer:** LEO ↑ 4.73%  
+**Biggest loser:** HASH ↓ 10.95%  
+**New entries:** PIPPIN  
+**Removed:** DASH
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
