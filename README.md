@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-02-22  
-**Biggest gainer:** PIPPIN ↑ 17.43%  
-**Biggest loser:** ETC ↓ 8.71%  
-**New entries:** None  
-**Removed:** None
+**Date:** 2026-02-23  
+**Biggest gainer:** PIPPIN ↑ 22.57%  
+**Biggest loser:** PUMP ↓ 7.08%  
+**New entries:** FTN  
+**Removed:** SEI
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
