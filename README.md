@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-02-24  
-**Biggest gainer:** PIPPIN ↑ 10.19%  
-**Biggest loser:** BCH ↓ 11.28%  
-**New entries:** DCR  
-**Removed:** JUP
+**Date:** 2026-02-25  
+**Biggest gainer:** MORPHO ↑ 15.38%  
+**Biggest loser:** HASH ↓ 3.52%  
+**New entries:** JUP, VIRTUAL  
+**Removed:** USDAI, FTN
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
