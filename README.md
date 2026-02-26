@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-02-25  
-**Biggest gainer:** MORPHO ↑ 15.38%  
-**Biggest loser:** HASH ↓ 3.52%  
-**New entries:** JUP, VIRTUAL  
-**Removed:** USDAI, FTN
+**Date:** 2026-02-26  
+**Biggest gainer:** DOT ↑ 23.66%  
+**Biggest loser:** M ↓ 6.25%  
+**New entries:** KITE  
+**Removed:** VIRTUAL
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
