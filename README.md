@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-02-27  
-**Biggest gainer:** DCR ↑ 17.92%  
-**Biggest loser:** PIPPIN ↓ 17.67%  
-**New entries:** STX  
-**Removed:** KITE
+**Date:** 2026-02-28  
+**Biggest gainer:** PAXG ↑ 5.68%  
+**Biggest loser:** DCR ↓ 18.51%  
+**New entries:** FTN  
+**Removed:** STX
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
