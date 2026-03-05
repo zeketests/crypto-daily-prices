@@ -1,0 +1,11 @@
+📊 Differences between 2026-03-04 and 2026-03-05
+
+🔼 PI ↑ 12.30% ($0.175185 → $0.196725)
+🔽 NEAR ↓ -7.86% ($1.4 → $1.29)
+🔽 STABLE ↓ -8.55% ($0.03088383 → $0.02824346)
+
+🆕 New in Top 100:
++ STX
+
+❌ Removed from Top 100:
+- VIRTUAL
