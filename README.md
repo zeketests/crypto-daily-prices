@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-03-05  
-**Biggest gainer:** PI ↑ 12.30%  
-**Biggest loser:** STABLE ↓ 8.55%  
-**New entries:** STX  
-**Removed:** VIRTUAL
+**Date:** 2026-03-06  
+**Biggest gainer:** OKB ↑ 23.97%  
+**Biggest loser:** JUP ↓ 7.28%  
+**New entries:** KITE  
+**Removed:** STX
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
