@@ -4,9 +4,9 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-03-09  
-**Biggest gainer:** TAO ↑ 10.23%  
-**Biggest loser:** HASH ↓ 8.77%  
+**Date:** 2026-03-10  
+**Biggest gainer:** HYPE ↑ 11.46%  
+**Biggest loser:** M ↓ 4.58%  
 **New entries:** None  
 **Removed:** None
 <!-- AUTO-UPDATE-END -->
