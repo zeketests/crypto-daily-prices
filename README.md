@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-03-11  
-**Biggest gainer:** ICP ↑ 5.53%  
-**Biggest loser:** KITE ↓ 10.45%  
-**New entries:** None  
-**Removed:** None
+**Date:** 2026-03-12  
+**Biggest gainer:** HYPE ↑ 8.91%  
+**Biggest loser:** NIGHT ↓ 10.12%  
+**New entries:** JST, FTN  
+**Removed:** KITE, JAAA
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
