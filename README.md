@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-03-13  
-**Biggest gainer:** TRUMP ↑ 33.33%  
-**Biggest loser:** HASH ↓ 6.08%  
-**New entries:** VIRTUAL, STX, PENGU  
-**Removed:** JST, FTN, DCR
+**Date:** 2026-03-14  
+**Biggest gainer:** CC ↑ 5.81%  
+**Biggest loser:** PI ↓ 24.13%  
+**New entries:** JST, FTN  
+**Removed:** STX, PENGU
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
