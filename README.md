@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-03-14  
-**Biggest gainer:** CC ↑ 5.81%  
-**Biggest loser:** PI ↓ 24.13%  
-**New entries:** JST, FTN  
-**Removed:** STX, PENGU
+**Date:** 2026-03-15  
+**Biggest gainer:** TAO ↑ 14.09%  
+**Biggest loser:** PI ↓ 6.78%  
+**New entries:** CAKE  
+**Removed:** JST
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
