@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-03-16  
-**Biggest gainer:** PEPE ↑ 18.64%  
-**Biggest loser:** SKY ↓ 5.28%  
-**New entries:** PENGU  
-**Removed:** FTN
+**Date:** 2026-03-17  
+**Biggest gainer:** ZEC ↑ 16.39%  
+**Biggest loser:** PI ↓ 8.71%  
+**New entries:** FET, SIREN  
+**Removed:** CAKE, A7A5
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
