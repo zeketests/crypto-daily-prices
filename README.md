@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-03-18  
-**Biggest gainer:** SIREN ↑ 18.50%  
-**Biggest loser:** HASH ↓ 11.38%  
-**New entries:** JST  
-**Removed:** TUSD
+**Date:** 2026-03-19  
+**Biggest gainer:** HASH ↑ 16.91%  
+**Biggest loser:** ZEC ↓ 13.21%  
+**New entries:** RIVER, ZRO, TUSD  
+**Removed:** PENGU, FET, VIRTUAL
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
