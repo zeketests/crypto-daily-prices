@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-03-19  
-**Biggest gainer:** HASH ↑ 16.91%  
-**Biggest loser:** ZEC ↓ 13.21%  
-**New entries:** RIVER, ZRO, TUSD  
-**Removed:** PENGU, FET, VIRTUAL
+**Date:** 2026-03-20  
+**Biggest gainer:** TAO ↑ 16.28%  
+**Biggest loser:** M ↓ 10.64%  
+**New entries:** FET  
+**Removed:** RIVER
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
