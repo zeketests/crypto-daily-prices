@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-03-20  
-**Biggest gainer:** TAO ↑ 16.28%  
-**Biggest loser:** M ↓ 10.64%  
-**New entries:** FET  
-**Removed:** RIVER
+**Date:** 2026-03-21  
+**Biggest gainer:** WLFI ↑ 4.25%  
+**Biggest loser:** HASH ↓ 9.70%  
+**New entries:** None  
+**Removed:** None
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
