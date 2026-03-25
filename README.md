@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-03-24  
-**Biggest gainer:** APT ↑ 17.21%  
-**Biggest loser:** SIREN ↓ 66.18%  
-**New entries:** FET  
-**Removed:** RIVER
+**Date:** 2026-03-25  
+**Biggest gainer:** SIREN ↑ 106.76%  
+**Biggest loser:** HASH ↓ 10.16%  
+**New entries:** None  
+**Removed:** None
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
