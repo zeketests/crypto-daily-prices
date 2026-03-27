@@ -4,9 +4,9 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-03-26  
-**Biggest gainer:** M ↑ 32.95%  
-**Biggest loser:** ZRO ↓ 8.97%  
+**Date:** 2026-03-27  
+**Biggest gainer:** ONDO ↑ 7.82%  
+**Biggest loser:** SIREN ↓ 56.28%  
 **New entries:** None  
 **Removed:** None
 <!-- AUTO-UPDATE-END -->
