@@ -4,9 +4,9 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-03-27  
-**Biggest gainer:** ONDO ↑ 7.82%  
-**Biggest loser:** SIREN ↓ 56.28%  
+**Date:** 2026-03-28  
+**Biggest gainer:** SIREN ↑ 107.92%  
+**Biggest loser:** HASH ↓ 9.01%  
 **New entries:** None  
 **Removed:** None
 <!-- AUTO-UPDATE-END -->
