@@ -4,11 +4,11 @@ Automatically fetches the top 100 crypto prices daily from CoinGecko, stores the
 
 ## 📅 Latest Update
 <!-- AUTO-UPDATE-START -->
-**Date:** 2026-04-08  
-**Biggest gainer:** RAIN ↑ 79.13%  
-**Biggest loser:** CC ↓ 2.80%  
-**New entries:** BCAP, ZRO  
-**Removed:** CAKE, TUSD
+**Date:** 2026-04-09  
+**Biggest gainer:** RAIN ↑ 5.62%  
+**Biggest loser:** ALGO ↓ 9.54%  
+**New entries:** TUSD, CAKE  
+**Removed:** ZRO, A7A5
 <!-- AUTO-UPDATE-END -->
 
 ## 📁 Folder structure
